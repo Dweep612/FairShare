@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_deletevideo"
+        android:title="Delete Video"
+            />
+    <item
+        android:id="@+id/menu_sharevideo"
+        android:title="Share Video"
+        />
+</menu>

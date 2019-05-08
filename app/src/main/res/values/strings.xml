@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fair Share</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_registration">Registration</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="hint_username">Username</string>
+    <string name="register_ques">Haven\'t Registered Yet?</string>
+    <string name="register_text">Register Now</string>
+    <string name="signout">Sign Out</string>
+    <string name="hint_fullName">Full Name</string>
+    <string name="text_upload">Upload Video</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_videos">Videos</string>
+    <string name="text_sharedVideos">Shared Videos</string>
+    <string name="video_description">Video Description</string>
+    <string name="video_title">Video Title</string>
+    <string name="choose_video">Choose Video</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="save">Save</string>
+    <string name="sharedby">Shared by :</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="on">on</string>
+    <string name="search">Search</string>
+    <string name="delete_account">Delete Account?</string>
+    <string name="change_password">Change Password!</string>
+</resources>
